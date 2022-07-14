@@ -1,0 +1,7 @@
+Aprroach of Implementation a project in Java to perform following functions
+- Create CSV file through Createfile() function into Temp and output directory to store filter data and output.
+- Read data from directory through readcsvusingscanner(String filepath) function.
+- Create Findduplicate() function to filter duplicate records in data file using Hashset data structures.
+- Finally create output directory to store Average basedon starting alphabet of the country and write data 
+   in to new file called 'output.csv' in 'output' directory.
+- Details codes are available in java file please it.
